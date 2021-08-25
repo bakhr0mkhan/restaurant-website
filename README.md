@@ -1,6 +1,6 @@
 ### Responsive Restaurant website using Html, Css and JavaScript.
 
-![Restaurant_website](https://ibb.co/GxrwPY6)
+![Restaurant_website](https://bit.ly/3km5x31)
 
 
 
